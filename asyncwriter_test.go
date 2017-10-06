@@ -3,7 +3,7 @@ package adb_test
 import (
 	"log"
 
-	adb "github.com/yosemite-open/go-adb"
+	adb "github.com/poi5305/go-adb"
 )
 
 func ExampleDevice_DoSyncLocalFile() {

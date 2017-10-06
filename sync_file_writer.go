@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/yosemite-open/go-adb/internal/errors"
-	"github.com/yosemite-open/go-adb/wire"
+	"github.com/poi5305/go-adb/internal/errors"
+	"github.com/poi5305/go-adb/wire"
 )
 
 // syncFileWriter wraps a SyncConn that has requested to send a file.

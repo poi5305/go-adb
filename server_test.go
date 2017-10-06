@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/yosemite-open/go-adb/wire"
+	"github.com/poi5305/go-adb/wire"
 	"github.com/stretchr/testify/assert"
 )
 
